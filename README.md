@@ -1,0 +1,1 @@
+# qt_language_helper
